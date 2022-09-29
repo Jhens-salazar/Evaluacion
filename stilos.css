@@ -1,0 +1,116 @@
+
+body{
+    height: 100%;
+}
+.contenedor_general{
+    background-color: #272944;
+    display: flex;
+    height: 100vh;
+    border-radius: 50px;
+    border: 1px solid #f9f9fa;
+}
+.lateral_izq{
+    display: flex;
+    border: 1px solid #f9f9fa;
+    width: 250px;
+    gap: 30px;
+    justify-content: center;
+    flex-direction: column;
+
+}
+a{
+    text-align: center;
+    text-decoration: none;
+    border-radius: 100px;
+    color: #f9f9fa;
+    border-color: 1px solid #f9f9fa;
+}
+p{
+    text-align: center;
+    color: #f9f9fa;
+}
+.icono_bus{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #f9f9fa;
+    height: 50px;
+}
+.dash{
+    display: flex;
+    justify-content: center;
+}
+.post{
+    display: flex;
+    justify-content: center;
+}
+.cate{
+    display: flex;
+    justify-content: center;
+}
+.medi{
+    display: flex;
+    justify-content: center;
+}
+.page{
+    display: flex;
+    justify-content: center;
+}
+.user{
+    display: flex;
+    justify-content: center;
+}
+.sett{
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 20px;
+    height: 20px;
+}
+.contenedor_arriba{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+}
+.prim{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #f9f9fa;
+    width: 150px;
+    height: 60px;
+    justify-content: center;
+    text-align: center;
+}
+.sec{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #f9f9fa;
+    width: 150px;
+    height: 60px;
+    justify-content: center;
+    text-align: center;
+}
+.ter{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #f9f9fa;
+    width: 150px;
+    height: 60px;
+    justify-content: center;
+    text-align: center;
+}
+.cuar{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #f9f9fa;
+    width: 150px;
+    height: 60px;
+    justify-content: center;
+    text-align: center;
+}
+.contenedor_latbaj{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #f9f9fa;
+}
